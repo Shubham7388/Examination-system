@@ -1,0 +1,29 @@
+.addoption{
+    border-radius:50%;
+    height:20px;
+    width:20px;
+    color:blue;
+    border:1px solid blue;
+    text-align: center;
+    font-weight: bolder;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+.symbol{
+    display:flex;
+}
+.delete{
+    height:20px;
+    width:20px;
+    border: 2px solid red;
+    border-radius: 50%;
+    line-height:20px;
+    font-size: 20px;
+    font-weight: bold;
+    color:red;
+    text-align: center;
+    align-items: center;
+}
+.check{
+    display:flex;
+}

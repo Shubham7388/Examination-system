@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.App{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    
+}
+.content{
+    position:relative;
+}
+.plus_btn
+{
+position:absolute;
+left: 570px;
+top:30px;
+height:40px;
+width:40px;
+background-color: green;
+}
+.btn1{
+width:60%;
+}
+.btn2{
+    width: 30%;
+}
+.Radio
+{
+    position:absolute;
+    left: 560px;
+    top:100px; 
+    height:40%;
+    width: 40%; 
+}
+.heading{
+    height: 50px;
+    width:100%;
+    font-size:150%;
+    color:blue;
+    font-weight:bolder;
+    text-align:center;
+    line-height:50px;
+   
+}
+.somthing{
+    border-bottom:3px solid blue;
+}
+
